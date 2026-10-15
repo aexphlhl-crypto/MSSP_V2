@@ -1,0 +1,33 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: msp-portal
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5434/msp_portal}
+    username: ${DB_USER:postgres}
+    password: ${DB_PASS:localpassword123}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        # Tenant isolation strategy is handled via @TenantId on entities
+        # which automatically applies to all queries.
+        tenant_identifier_resolver: com.mspportal.common.tenant.CurrentTenantIdentifierResolverImpl
+    open-in-view: false
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+    baseline-version: "0"
+
+logging:
+  level:
+    root: INFO
+    com.mspportal: DEBUG
+    org.hibernate.SQL: DEBUG
+

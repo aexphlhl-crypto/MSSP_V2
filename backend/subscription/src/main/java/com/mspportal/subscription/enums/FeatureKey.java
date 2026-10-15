@@ -1,0 +1,46 @@
+package com.mspportal.subscription.enums;
+
+public enum FeatureKey {
+    // Ticketing
+    TICKETING,
+    TICKETING_AI_CLASSIFY,
+    
+    // Security
+    SECURITY_OVERVIEW,
+    SECURITY_VULNERABILITY,
+    SECURITY_EDR,
+    SECURITY_IAM,
+    SECURITY_REPORTING,
+    SECURITY_BASIC,
+    SECURITY_ALERTS,
+    SECURITY_ENDPOINT,
+    
+    // Backup
+    BACKUP_OVERVIEW,
+    BACKUP_RESTORE,
+    BACKUP_REPORTING,
+    BACKUP_BASIC,
+    BACKUP_JOBS,
+    BACKUP_ALERTS,
+    
+    // Monitoring
+    MONITORING_BASIC,
+    MONITORING_ADVANCED,
+    MONITORING_ALERTS,
+    
+    // Reporting
+    REPORTING_BASIC,
+    REPORTING_COMPLIANCE,
+    
+    // AI
+    AI_TICKETING,
+    AI_SECURITY,
+    AI_BACKUP,
+    AI_ASSISTANT,
+    AI_TICKET_CLASSIFICATION,
+    AI_ALERT_ANALYSIS,
+    AI_RECOMMENDATIONS,
+
+    // Billing
+    BILLING
+}

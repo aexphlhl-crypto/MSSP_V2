@@ -1,0 +1,14 @@
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\ai\AIAnalysisResult.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\correlation\IncidentCorrelationService.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\MSPApplication.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\config\JpaAuditingConfig.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\ai\MSPCopilotService.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\operations\OperationsController.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\ai\MockAIAnalysisService.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\ai\MSPCopilotController.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\automation\AlertToTicketService.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\automation\OperationalIncidentHandler.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\domain\OperationalIncident.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\config\GlobalExceptionHandler.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\config\WebMvcConfig.java
+D:\Study\Study\Congty\Coding\MSP_V2\backend\application\src\main\java\com\mspportal\application\ai\AIController.java

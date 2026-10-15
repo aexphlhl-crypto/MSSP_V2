@@ -1,0 +1,6 @@
+com\mspportal\common\exception\TenantAccessDeniedException.class
+com\mspportal\common\tenant\CurrentTenantIdentifierResolverImpl.class
+com\mspportal\common\tenant\TenantContext.class
+com\mspportal\common\entity\BaseEntity.class
+com\mspportal\common\entity\BaseTenantEntity.class
+com\mspportal\common\exception\ResourceNotFoundException.class

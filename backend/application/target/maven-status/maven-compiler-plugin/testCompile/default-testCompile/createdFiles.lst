@@ -1,0 +1,4 @@
+com\mspportal\application\TicketDomainSecurityTest.class
+com\mspportal\application\TenantSecurityAuditTest.class
+com\mspportal\application\CopilotEvidenceTest.class
+com\mspportal\application\ZabbixDiagnosticsTest.class

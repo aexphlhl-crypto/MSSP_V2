@@ -1,0 +1,16 @@
+com\mspportal\application\ai\MSPCopilotController.class
+com\mspportal\application\MSPApplication.class
+com\mspportal\application\ai\AIController.class
+com\mspportal\application\automation\AlertToTicketService.class
+com\mspportal\application\config\JpaAuditingConfig.class
+com\mspportal\application\operations\OperationsController.class
+com\mspportal\application\ai\MSPCopilotService.class
+com\mspportal\application\ai\MSPCopilotService$CopilotResponse$CopilotResponseBuilder.class
+com\mspportal\application\config\GlobalExceptionHandler.class
+com\mspportal\application\automation\OperationalIncidentHandler.class
+com\mspportal\application\config\WebMvcConfig.class
+com\mspportal\application\ai\AIAnalysisResult.class
+com\mspportal\application\ai\MockAIAnalysisService.class
+com\mspportal\application\domain\OperationalIncident.class
+com\mspportal\application\ai\MSPCopilotService$CopilotResponse.class
+com\mspportal\application\correlation\IncidentCorrelationService.class

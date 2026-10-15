@@ -1,0 +1,12 @@
+com\mspportal\auth\dto\AuthRequest.class
+com\mspportal\auth\dto\AuthResponse.class
+com\mspportal\auth\dto\TenantResponse.class
+com\mspportal\auth\security\JwtAuthenticationFilter.class
+com\mspportal\auth\security\SecurityConfig.class
+com\mspportal\auth\repository\TenantRepository.class
+com\mspportal\auth\dto\UserProfileResponse.class
+com\mspportal\auth\entity\Tenant.class
+com\mspportal\auth\entity\User.class
+com\mspportal\auth\repository\UserRepository.class
+com\mspportal\auth\controller\AuthController.class
+com\mspportal\auth\security\JwtTokenProvider.class
